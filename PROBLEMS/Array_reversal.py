@@ -3,7 +3,7 @@
 arr=list(map(int,input("Enter a number: ").split()))
 print(arr[::-1])
 
-# OR
+#%%
 
 end=len(arr)-1
 i=0
