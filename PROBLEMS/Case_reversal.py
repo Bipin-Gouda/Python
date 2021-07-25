@@ -1,7 +1,7 @@
 temp=input("Enter some random input string:") 
 str=""
 for ch in temp:
-    if ch.isalpha():
+    if ch.isalpha():   # can do ch.isdigit() also, alphanumeric also
         if ch.isupper():
             str=str+ch.lower()
         else:
