@@ -12,4 +12,3 @@ while i<end:
     i+=1
     end-=1   
 print(arr)
-print(arr)
