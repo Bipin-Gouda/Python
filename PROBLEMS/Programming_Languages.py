@@ -10,3 +10,4 @@ for t in range(int(input())):
         
         
 # all() method  used to compare all elements in a sequence
+# any() method  used to find any one comparison
