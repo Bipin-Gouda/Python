@@ -1,2 +1,2 @@
 # Python
-Python Codes Trial versn
+Practice codes in python for different problems..
