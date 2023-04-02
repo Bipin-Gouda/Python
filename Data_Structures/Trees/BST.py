@@ -53,6 +53,7 @@ class Node:
         if self.rightChild:
             self.rightChild.PrintTree()
 
+
 # Creating root node
 root = Node(27)
 # Inserting values in BST
