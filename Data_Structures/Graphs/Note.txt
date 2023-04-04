@@ -1,1 +1,1 @@
-In python we use Dicttionaries for graph Implementation
+In python we use Dictionaries for graph Implementation
