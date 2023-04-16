@@ -19,7 +19,7 @@ class Dog:
         return f"{self.name} says {sound}"
     
 
-class JackRussellTerrier(Dog):
+class JackRussellTerrier(Dog):           # Inheritance
     pass
 
 class Dachshund(Dog):

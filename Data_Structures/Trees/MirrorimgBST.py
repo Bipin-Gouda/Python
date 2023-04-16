@@ -1,4 +1,4 @@
-# A class to store a binary tree node
+# A class to store a binary tree node 
 class Node:
     def __init__(self, data):
         self.data = data

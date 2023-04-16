@@ -34,7 +34,7 @@ class Node:
         if self.rightChild:
             self.rightChild.Preorder()
     
-    def Inorder(self):                                
+    def Inorder(self):                                  
         if self.leftChild:
             self.leftChild.Inorder()
         print( self.data, end=" ")

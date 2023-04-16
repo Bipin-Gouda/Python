@@ -41,6 +41,8 @@ root.insert(35)
 root.insert(31)
 root.insert(10)
 root.insert(19)
+root.insert(5)
+root.insert(1)
 # searching the values
 #print(root.search(7))
 #print(root.search(14))
